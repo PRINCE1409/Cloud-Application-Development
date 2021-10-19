@@ -1,2 +1,4 @@
 # Cloud-Application-Development
-thankyou so much for the effort
+Best repo for beginners 
+
+thank you everyone for so much efforts
